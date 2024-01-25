@@ -1,0 +1,33 @@
+
+    {"name": "Alice", 
+    "age": 25, "email": 
+    "alice@example.com"},
+    {"name": "Bob",
+     "age": 30,
+      "email": "bob@example.com"},
+    {"name": "Charlie", 
+    "age": 22, 
+    "email": "charlie@example.com"},
+    {"name": "David", 
+    "age": 28,
+     "email": "david@example.com"},
+    {"name": "Eva",
+     "age": 35, 
+     "email": "eva@example.com"},
+    {"name": "Frank",
+     "age": 27,
+      "email": "frank@example.com"},
+    {"name": "Grace",
+     "age": 32,
+      "email": "grace@example.com"},
+    {"name": "Harry",
+     "age": 29,
+      "email": "harry@example.com"},
+    {"name": "Ivy", 
+    "age": 31, 
+    "email": "ivy@example.com"},
+    {"name": "Jack", 
+    "age": 26,
+     "email": "jack@example.com"}
+  
+  
